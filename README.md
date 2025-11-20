@@ -32,7 +32,7 @@ Created professional BI dashboards to understand customer behavior and churn pat
 - Long-tenure customers rarely churn  
 - Auto-pay and yearly contract customers have lowest churn  
   
-![Churn Dashboard](images\summary.png)
+![Churn Dashboard](images/summary.png)
 
 ---
 
@@ -59,7 +59,7 @@ After generating predictions using Python, a **second dashboard** was created to
 - Customer segmentation  
 - Top churn-causing factors  
 
-![Prediction Dashboard](images\churn_prediction.png)
+![Prediction Dashboard](images/churn_prediction.png)
 
 ---
 
