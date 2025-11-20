@@ -120,6 +120,7 @@ Using SQL, Power BI, and Python, we created a pipeline that helps businesses:
 ## 🙌 Author  
 **Ileen Xaxa**  
 Data Analyst & Machine Learning Enthusiast
+
 🔗 [LinkedIn](https://www.linkedin.com/in/ileen-xaxa-713625bt9/)  
 💻 [GitHub](https://github.com/ileenxaxa22) 
 ---
